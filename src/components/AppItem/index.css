@@ -1,0 +1,21 @@
+.storeItem {
+  background-color: white;
+  border-radius: 15px;
+  width: 120px;
+  height: 120px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+}
+.image {
+  width: 55px;
+  margin-top: 15px;
+}
+.itemName {
+  color: #1e293b;
+  font-family: 'bree serif';
+  font-weight: 600;
+  font-size: 15px;
+}
